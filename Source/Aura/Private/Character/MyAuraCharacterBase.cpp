@@ -1,7 +1,7 @@
 // Copyright Sherry
 
 
-#include "AuraMyCharacterBase.h"
+#include "Character/MyAuraCharacterBase.h"
 
 // Sets default values
 AAuraMyCharacterBase::AAuraMyCharacterBase()
